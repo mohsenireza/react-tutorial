@@ -1,0 +1,9 @@
+.name {
+  font-weight: bold;
+  color: green;
+}
+
+.job {
+  color: blue;
+  margin-left: 1em;
+}
